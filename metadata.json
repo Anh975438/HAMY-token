@@ -1,0 +1,17 @@
+{
+  "name": "HAMY",
+  "symbol": "H",
+  "description": "token HAMY phục vụ giao dịch trên solana",
+  "image": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/output_image.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/output_image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
