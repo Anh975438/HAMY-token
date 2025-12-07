@@ -1,0 +1,12 @@
+{
+  "name": "HAMY Token",
+  "symbol": "HAMY",
+  "description": "Token brings money and happiness to everyone",
+  "image": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Version",
+      "value": "1.0"
+    }
+  ]
+}
