@@ -1,17 +1,14 @@
 {
   "name": "HAMY",
   "symbol": "H",
-  "description": "token HAMY phục vụ giao dịch trên solana",
-  "image": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/output_image.png",
-  "external_url": "",
-  "attributes": [],
+  "description": "My HAMY token",
+  "image": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/logo.png",
   "properties": {
     "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/output_image.png",
-        "type": "image/png"
-      }
+      { "uri": "https://raw.githubusercontent.com/Anh975438/HAMY-token/main/logo.png", "type": "image/png" }
     ],
-    "category": "image"
+    "creators": [
+      { "address": "6oBvMTvNrxksq9619MQPHVXgaom4SowBDEafn79JRfnq", "share": 60 }
+    ]
   }
 }
